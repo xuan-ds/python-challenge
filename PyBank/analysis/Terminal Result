@@ -1,0 +1,10 @@
+(PythonData) xuandi@LALA-LAND PyBank % python read_csv.py 
+<_csv.reader object at 0x7fe998300650>
+Financial Analysis
+-----------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
+(PythonData) xuandi@LALA-LAND PyBank % 
