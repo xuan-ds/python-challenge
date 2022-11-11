@@ -1,0 +1,9 @@
+(PythonData) xuandi@LALA-LAND PyPoll % python main.py
+<_csv.reader object at 0x7f9f60300650>
+ELection Resolts
+-------------------------------
+Charles Casper Stockham:23%(85212)
+Diana DeGette:74%(272892)
+Raymon Anthony Doane:3%(11606)
+-------------------------------
+(PythonData) xuandi@LALA-LAND PyPoll % 
